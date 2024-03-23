@@ -24,4 +24,14 @@
         "assetId": 155706162,
         "minVersion": "1.2"
     }]
+},{
+    "type": "github",
+    "org": "gazhay",
+    "id": "bbd9e3f8-f320-47ee-a2c8-dca22156e464",
+    "repo": "sauce4clubLadder",
+    "logoURL": "https://ladder.cycleracing.club/img/logo-t.png",
+    "releases": [{
+        "id": 604bbf9,
+        "assetId": 604bbf9
+    }]
 }]
