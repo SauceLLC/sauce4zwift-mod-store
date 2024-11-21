@@ -40,4 +40,29 @@
     "authorName": "Arend teRaa",
     "authorURL": "https://github.com/Zenmaster28",
     "authorAvatarURL": "https://avatars.githubusercontent.com/u/6671862?v=4"
+},
+{
+    "releases": [
+        {
+            "notes": "First version for Mod Store",
+            "version": "1.0.0",
+            "updated": 1732207500000,
+            "hash": "c5c50fdbc8ca51c9dc70ceaeca1f66786561571c659001be4c1ed88abab11a18",
+            "url": "",
+            "size": 34194
+        }
+    ],
+    "zip": "C:\\fakepath\\arckuk-sauce-main-v1.0.0.zip",
+    "id": "70db5a4d-fcca-49a5-9e3c-206a59171dd9",
+    "name": "Arckuk Sauce",
+    "description": "Various mods to replace and enhance the standard HUD\n\n* Power bars: Current/max/best power chart over 1s/5s/15s/1m/5m/20m durations\n* Power curve: Live power curve for current and max power over all durations\n* Event title: displays name of current event\n* Input: Power/HR/cadence/draft/gradient window\n* Output: Speed/time/distance/elevation window\n* Replacements for default Zwift speed/distance/time and power/cadence/HR bars",
+    "homeURL": "https://github.com/arckuk/arckuk-sauce",
+    "logoURL": "https://github.com/arckuk/arckuk-sauce/blob/main/Arckuk%20Sauce.png?raw=true",
+    "tags": [
+        "powercurve",
+        " powerbars",
+        " hud"
+    ],
+    "created": 1715126400000,
+    "authorName": "Nick Keat"
 }]
