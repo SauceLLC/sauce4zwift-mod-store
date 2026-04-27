@@ -26,15 +26,15 @@
         "authorAvatarURL": "https://avatars.githubusercontent.com/u/139316",
         "authorURL": "https://github.com/mayfield"
     },
-        {
+    {
         "releases": [
             {
-                "url": "https://mod-api.sauce.llc/assets/zenmaster/2e772291e171dd8bf25d7c3f2c2f69c7586aa9f454238bf2da26c6ce9a9c484a.zip",
-                "version": "1.8.9",
-                "updated": 1777231126731,
-                "hash": "2e772291e171dd8bf25d7c3f2c2f69c7586aa9f454238bf2da26c6ce9a9c484a",
-                "size": 761826,
-                "notes": "version 1.8.9 is all points leaderboard related\n- it will now display a warning if you are in an event and no scoring has been configured\n- if scoring is configured and you are sitting in the pen, it will display a summary of the configuration (you can turn it off in the settings if you don't want it).  Specifically whether or not each of FTS, FAL and FIN scores are setup and then a list of the segments and whether FTS, FAL or both are enabled.\n- once the event starts, it will show a line at the top that indicates what the next segment is, what score format it has and what the distance to it is (also can be turned off if you don't want it)\nThe teams management page is a bit better.  \n- If you add a new team, it becomes immediately available as a selection to assign to a rider (ie. no page reload needed).\n- You can rename a team\n- When assigning riders to a team from an event, the columns can be sorted by clicking on them"
+                "url": "https://mod-api.sauce.llc/assets/zenmaster/d9218ba48153abc2af33e3ff65276e49ceff759c06ff6becd2cfe2424d07a94e.zip",
+                "version": "1.9.0",
+                "updated": 1777314394129,
+                "hash": "d9218ba48153abc2af33e3ff65276e49ceff759c06ff6becd2cfe2424d07a94e",
+                "size": 762024,
+                "notes": "version 1.9.0\n- minor display fixes for points leaderboard"
             }
         ],
         "id": "96f4039e-cfb4-44bf-895e-c6cab7b68311",
