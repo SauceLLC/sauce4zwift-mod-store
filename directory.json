@@ -206,5 +206,32 @@
             "DS"
         ],
         "authorName": "Dean Nordhielm (with an assist from Tim Busick)"
+    },
+    {
+        "id": "6565179d-7c01-4bbd-bd44-fb5f24ff791b",
+        "name": "pace µe",
+        "description": "Displays the **µ pacing metric** derived from power, speed, and gradient during Zwift rides.\n\n* Hold µ constant for optimal pacing on hills and flats\n* Configurable sub-fields: power, speed, grade, cadence, HR, draft, wBal, Δv\n* Power smoothing: 1s / 3s / 7s\n* Auto or manual bike/wheel detection\n* Patreon-linked key for full access — free monthly beta keys available",
+        "created": 1782783883442,
+        "logoURL": "https://paceme-web-495541013056.europe-west1.run.app/static/logo.webp",
+        "homeURL": "https://www.patreon.com/paceme",
+        "authorName": "Hendrik Rommeswinkel",
+        "authorURL": "https://rommeswinkel.gitlab.io",
+        "authorAvatarURL": "https://paceme-web-495541013056.europe-west1.run.app/static/avatar.webp",
+        "tags": [
+            "time trial",
+            "pacing",
+            "data field"
+        ],
+        "releases": [
+            {
+                "version": "0.1.2",
+                "hash": "51ab9bf89cdc0e889937efb69e31b7228570b71f841a2ef1f062b735989a9201",
+                "url": "https://mod-api.sauce.llc/assets/pace_e/51ab9bf89cdc0e889937efb69e31b7228570b71f841a2ef1f062b735989a9201.zip",
+                "size": 33371,
+                "updated": 1782783883442,
+                "notes": "Initial public release of the pace µe overlay for Sauce4Zwift.",
+                "minVersion": "2.2.0"
+            }
+        ]
     }
 ]
