@@ -29,12 +29,12 @@
     {
         "releases": [
             {
-                "url": "https://mod-api.sauce.llc/assets/zenmaster/0e1ae02138495994a72ebce311450554c263cd67e4452e2dd9d3066addd86169.zip",
-                "version": "1.9.2",
-                "updated": 1784048556479,
-                "hash": "0e1ae02138495994a72ebce311450554c263cd67e4452e2dd9d3066addd86169",
-                "size": 762495,
-                "notes": "version 1.9.2 is a minor fix for segment detection in Paris, specifically the back to back Montmartre KOMs in Monmartre Mixer\n"
+                "url": "https://mod-api.sauce.llc/assets/zenmaster/75d115b045a18d1054359e9065c1ee334cbb0d93606bca88febd70869f128240.zip",
+                "version": "1.9.3",
+                "updated": 1784314268708,
+                "hash": "75d115b045a18d1054359e9065c1ee334cbb0d93606bca88febd70869f128240",
+                "size": 762583,
+                "notes": "version 1.9.3 fixes an issue with 1.9.2 in events with custom distances and/or multiple laps."
             }
         ],
         "id": "96f4039e-cfb4-44bf-895e-c6cab7b68311",
