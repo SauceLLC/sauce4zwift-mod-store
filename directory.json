@@ -111,13 +111,13 @@
         "name": "O101 Racing Mods",
         "releases": [
             {
-                "version": "1.1.9",
-                "hash": "168fe5e878bc886ef6888f98d2c824bd63da8b81e3601beee6265c29539613fe",
-                "url": "https://mod-api.sauce.llc/assets/o101_for_s4z/168fe5e878bc886ef6888f98d2c824bd63da8b81e3601beee6265c29539613fe.zip",
-                "size": 1056359,
-                "updated": 1783891396812,
-                "notes": "v1.1.9\nBig fan viewer update\nNote: for ladder mod, destroy and recreate solves most problems",
-                "minVersion": "2.0.1"
+                "version": "1.1.10",
+                "hash": "7475f3a920353bd91f67d5fa291eb2bf1b4ac6e428c48f4cb0bdcc6a3c2d3e79",
+                "url": "https://mod-api.sauce.llc/assets/o101_for_s4z/7475f3a920353bd91f67d5fa291eb2bf1b4ac6e428c48f4cb0bdcc6a3c2d3e79.zip",
+                "size": 1042887,
+                "updated": 1784290162227,
+                "notes": "v1.1.10\nBig fan viewer update\nNote: for ladder mod, destroy and recreate solves most problems",
+                "minVersion": "2.3.2"
             }
         ],
         "description": "O101 racing mods, made by Onno Aphinan. These mod windows can help you to race better, improve your race craft.\n\n**Nearby Race v2**\nShows position, category, team badge, active power up, gap, speed, draft, hr, power with color. Marked riders, robopacers, also show them sticky or only. TTT options and FRR mode.\n\n**Groups Race**\nShows gap to you, group size, power with color, visual speed indicator, max position. Also some filtering possible to give you the best overview. Horizontal and vertical mode.\n\n**Ladder Race**\nIt is nearby and groups combined. It also shows actual points, pre-race stats and finish information. Auto and manual configuration, gets data from ladder site.\n\n**Overview**\nShows route/race/event information. Static and actual race information like power ups, distance, time,elevation, progress, lap info. Route segments overview, actual segment information with ETA. A Zwift like leaderboard.\n\n**Livedata**\nShows actual information like speed, power, draft, virtal power, cadence, hr, gradient, gears. Power in Watts or Wkg.\n\n**Progress Bar**\nWith percentage, name, distance, finish, lap name options.\n\n**Fan Viewer**\nA bit of a fan view companion app. Easily navigate the riders in a race. Jump to leader/lantern rouge, fist/last of group and change camera. Also easily switch to marked riders. A map with profile as background.\n\nFor more detailed info, check https://github.com/Opperhoofd/o101_s4z_mods?tab=readme-ov-file#O101-racing-MODS",
