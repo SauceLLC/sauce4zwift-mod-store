@@ -206,5 +206,32 @@
             "DS"
         ],
         "authorName": "Dean Nordhielm (with an assist from Tim Busick)"
+    },
+    {
+        "id": "76f26fd4-d010-40d5-970e-5899d947db41",
+        "name": "Ride Leader Games",
+        "description": "Games and tools for Zwift ride leaders.\n\n * Score every nearby rider over a set duration and announce the standings and winners in chat.\n * Pick the game from a dropdown: Closest to Leader (lowest average distance from the ride leader) or Cadence Challenge (highest average RPM).\n * Staged chat sending (Silent / Review / Auto) with word-boundary chunking and paced delivery.\n * A bicycle-joke sender to entertain the group between efforts.\n\nSending chat requires Sauce's Game Connection to be enabled.",
+        "tags": [
+            "ride-leader",
+            "games",
+            "leaderboard",
+            "chat",
+            "cadence"
+        ],
+        "logoURL": "https://github.com/PaulCurtis5227/ride-leader-games/raw/master/images/RLG.png",
+        "homeURL": "https://github.com/PaulCurtis5227/ride-leader-games",
+        "authorName": "Paul Curtis",
+        "authorURL": "https://github.com/PaulCurtis5227",
+        "authorAvatarURL": "https://github.com/PaulCurtis5227.png",
+        "created": 1784389346370,
+        "releases": [
+            {
+                "url": "https://mod-api.sauce.llc/assets/ride_leader_games/507d3d4955543079a40ee1b38c94c7298b3065ab0314475c523b2cda9b06c4fa.zip",
+                "version": "0.3.0",
+                "hash": "507d3d4955543079a40ee1b38c94c7298b3065ab0314475c523b2cda9b06c4fa",
+                "size": 1450633,
+                "updated": 1784399270152
+            }
+        ]
     }
 ]
