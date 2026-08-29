@@ -93,15 +93,15 @@
         "name": "Zwift Rider/TTT Profile Card",
         "releases": [
             {
-                "version": "7.9.1",
-                "hash": "08e7858ad148fbb62f220c0ca917e2ba21bd10d98740040565fa21a2111e1d05",
-                "url": "https://mod-api.sauce.llc/assets/zwift_rider_ttt_profile_card/08e7858ad148fbb62f220c0ca917e2ba21bd10d98740040565fa21a2111e1d05.zip",
-                "size": 475786,
-                "updated": 1784159066381,
-                "notes": "**ZwiftGuy Profile Card — v7.9 Release Notes**\n\n- **ZG Live Map** — a team command-center dock of mini-profile cards over a live map, with solid or glassmorphic card styles, size slider, bottom/left/right docking, and single or double rows.\n- Custom per-rider orb colors with reset-to-default, plus separate auto team-color toggles for cards and orbs, floating team badges, Zwift-like map tilt, and \"Mini-Card Riders Only\" filtering.\n- Load Saved TTT Team directly into the map roster, with a team-finding engine that sorts teammates, clubmates, and followed riders to the top.\n- Race commentary announcer with offline text-to-speech that works on Mac, Windows, and Linux.\n\n**v7.9.1** includes bug fixes\n"
+                "version": "7.9.2",
+                "hash": "786db66958ed257c693116a9de2626f9af1c3b1f61fb780f72404eec2312c81a",
+                "url": "https://mod-api.sauce.llc/assets/zwift_rider_ttt_profile_card/786db66958ed257c693116a9de2626f9af1c3b1f61fb780f72404eec2312c81a.zip",
+                "size": 562061,
+                "updated": 1787969652393,
+                "notes": "ZwiftGuy Profile Card — v7.9.2\n\nNEW  Club Ladder 5v5 (BETA) — live scoreboard for both clubs, roster pulled\n     automatically from your ladder fixture, per-rider gap with closing/losing.\n\nNEW  Rhino 2upTT Countdown — 2upTeam countdown card with a route-aware finish\n     projection and pace target finish.\n"
             }
         ],
-        "description": "**ZwiftGuy Profile Card** (v7.9) — a Sauce4Zwift overlay suite with a live mini-profile card, TTT Team View, ZG Chat, race commentary with an offline TTS announcer, and a ZG Live Map featuring a team command-center dock of custom-colored rider cards and orbs.",
+        "description": "**ZwiftGuy Profile Card**  — a Sauce4Zwift overlay suite with a live mini-profile card, TTT TEAM VIEWER, ZG CHAT, RACE LIVE CHAT in the style of YouTube Live/Twitch commentary with an offline TTS announcer, a ZG LIVE MAP featuring a team command-center dock of custom-colored rider cards and orbs, Rhino 2upTT Countdown Timer, and a 5v5 CLUB LADDER MOD (in BETA). ",
         "logoURL": "https://github.com/micahreeves/classic/blob/SauceModLogo/pictures/gitHubLogoV.7.2.webp?raw=true",
         "created": 1762840800000,
         "authorName": "ZwiftGuy"
