@@ -29,12 +29,12 @@
     {
         "releases": [
             {
-                "url": "https://mod-api.sauce.llc/assets/zenmaster/c4a033b7329a857bc83b5e40108522e64c36fc8d40d1c77dfa43a73c8d050072.zip",
-                "version": "1.9.4",
-                "updated": 1785869694251,
-                "hash": "c4a033b7329a857bc83b5e40108522e64c36fc8d40d1c77dfa43a73c8d050072",
-                "size": 765516,
-                "notes": "version 1.9.4 adds the new roads in Paris to the Custom route creator/chauffer and fixes an issue where the elevation profile doesn't load in events with a large number of laps."
+                "url": "https://mod-api.sauce.llc/assets/zenmaster/cfeaddcdebb2c7798a5b3bd9737619b2d7134371a366d9568f37e58e71b03a47.zip",
+                "version": "1.9.5",
+                "updated": 1789844863610,
+                "hash": "cfeaddcdebb2c7798a5b3bd9737619b2d7134371a366d9568f37e58e71b03a47",
+                "size": 802492,
+                "notes": "version 1.9.5\n- updates the FTS points format for ZRL in the points leaderboard\n- fixes an issue with the elevation profile when Sauce doesn't have the current event information.  This should only happen when fan viewing someone who is in a private event (example being a ladder race).  The elevation profile will now show the default route profile without any laps or custom distance applied.  It will also show a yellow warning triangle in the upper left to let you know that the profile may not be accurate with laps and distance."
             }
         ],
         "id": "96f4039e-cfb4-44bf-895e-c6cab7b68311",
