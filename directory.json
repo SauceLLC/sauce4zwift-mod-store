@@ -206,5 +206,35 @@
             "DS"
         ],
         "authorName": "Dean Nordhielm (with an assist from Tim Busick)"
+    },
+    {
+        "id": "50b7f63c-819c-484e-8667-997a9f7df4b7",
+        "name": "Race Report",
+        "created": 1790097996572,
+        "releases": [
+            {
+                "version": "1.0.6",
+                "hash": "d8e36080e6bb0872fbea0f4587f8ae5ee9a60b9e03f2f5bffe13c212ee85bbc3",
+                "url": "https://mod-api.sauce.llc/assets/race_report/d8e36080e6bb0872fbea0f4587f8ae5ee9a60b9e03f2f5bffe13c212ee85bbc3.zip",
+                "size": 181008,
+                "updated": 1790098186484,
+                "notes": "1.0.6: first store release.\n- Race report in the window, with an overview of the race first.\n- Copy buttons for a race commentary (team or field) and a coach's debrief.\n- Terrain, who caught whom, every group on the road, and pack dynamics in your group.\n- Sprint and KOM order from Zenmaster, or from Zwift's segment times with the official results.",
+                "minVersion": "2.3.0"
+            }
+        ],
+        "description": "Records your race as you ride it and shows a report on how it was raced: the start, when the groups split and who went, the road, time in the draft and in the wind, your biggest efforts, sprints and KOMs, and your finish.\n* Two buttons copy a ready-made prompt plus the race facts, to paste into any AI: a race commentary about your team's or the field's race, or a coach's debrief of your own race.\n* Records by itself from the gun, and watches the riders behind you come in for two minutes after your finish.\n* Everything stays on your computer. The only call to Zwift is the Get official results button.\n* Reads Zenmaster's saved sprint and KOM results when you run it too.",
+        "homeURL": "https://github.com/vkchap/sauce-race-report",
+        "logoURL": "https://raw.githubusercontent.com/vkchap/sauce-race-report/refs/tags/v1.0.6/logo.png",
+        "tags": [
+            "race",
+            "report",
+            "results",
+            "ai",
+            "draft",
+            "segments"
+        ],
+        "authorName": "Van Chappell",
+        "authorAvatarURL": "https://avatars.githubusercontent.com/u/26533100?v=4",
+        "authorURL": "https://github.com/vkchap"
     }
 ]
