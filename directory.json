@@ -29,19 +29,20 @@
     {
         "releases": [
             {
-                "url": "https://mod-api.sauce.llc/assets/zenmaster/cfeaddcdebb2c7798a5b3bd9737619b2d7134371a366d9568f37e58e71b03a47.zip",
-                "version": "1.9.5",
-                "updated": 1789844863610,
-                "hash": "cfeaddcdebb2c7798a5b3bd9737619b2d7134371a366d9568f37e58e71b03a47",
-                "size": 802492,
-                "notes": "version 1.9.5\n- updates the FTS points format for ZRL in the points leaderboard\n- fixes an issue with the elevation profile when Sauce doesn't have the current event information.  This should only happen when fan viewing someone who is in a private event (example being a ladder race).  The elevation profile will now show the default route profile without any laps or custom distance applied.  It will also show a yellow warning triangle in the upper left to let you know that the profile may not be accurate with laps and distance."
+                "url": "https://mod-api.sauce.llc/assets/zenmaster/9d127d3fd5a33f4adcf9157330b5ce4ca8fb7a7540a307cd7630e5a77c964041.zip",
+                "version": "1.9.6",
+                "updated": 1790854283715,
+                "hash": "9d127d3fd5a33f4adcf9157330b5ce4ca8fb7a7540a307cd7630e5a77c964041",
+                "size": 803051,
+                "notes": "version 1.9.6\n- fixes a potential issue when importing teams for a DRS race if a duplicate assignment is found\n- fixes an issue with the route creator/chauffeur at the Mayan jungle intersection (and possibly elsewhere)"
             }
         ],
         "id": "96f4039e-cfb4-44bf-895e-c6cab7b68311",
         "tags": [
             "routes",
             "segments",
-            "route builder"
+            "route builder",
+            "points races"
         ],
         "name": "Zenmaster",
         "description": "Arend's Mod Collection\n\n* Fully customizable route elevation profiles\n* See the active powerups in your group when the HUD is off\n* Segment leaderboards\n* Preview route and segment profiles\n* Pace partner routes and current locations\n* Lap data windows for workouts\n* Leaderboards for points races",
