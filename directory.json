@@ -189,12 +189,12 @@
         "created": 1769644971606,
         "releases": [
             {
-                "version": "0.1.0",
-                "hash": "6a27f6d240f6936aacde27b3a4ecd76b9fb795af2b2805edbc8ba6b686cea5b6",
-                "url": "https://mod-api.sauce.llc/assets/sendit/6a27f6d240f6936aacde27b3a4ecd76b9fb795af2b2805edbc8ba6b686cea5b6.zip",
-                "size": 23156,
-                "updated": 1786071536477,
-                "notes": "### New in this Release\n* **Fixes a bug that overwrote user's weight to 75kg in mod w/kg calculations (which also affects draft %s).\n* **Adds one decimal point to weight save output\n\n---\n\n### Issues / Enhancements in the queue\n* Create a way to toggle TTT dynamics to a post-race state (e.g., from transparent to solid background, adding more data)\n* Enhanced pull definitions (similar to Tord's TTT mod)\n* Improvements to group TTT efficiency metrics"
+                "version": "0.1.1",
+                "hash": "f94eb2923785af3d1db000dc634611b5f7b0734c971de13be2451fb69ea97f59",
+                "url": "https://mod-api.sauce.llc/assets/sendit/f94eb2923785af3d1db000dc634611b5f7b0734c971de13be2451fb69ea97f59.zip",
+                "size": 74795,
+                "updated": 1790946159085,
+                "notes": "### New in this Release\n* **SCP (Snap Crackle Pop) windows** for race series scored by the sum of each rider's segment times across the route, by category (loop-only segments don't count):\n  * **SCP Next Segment:** the next segment's name, distance to its start or its route km mark (or alternating), length, grade and your 90-day PR. Inside a segment it shows distance to the finish and the grade remaining.\n  * **SCP Segment List:** upcoming segments with distance to each start or its km mark (or alternating).\n  * **SCP Results:** rotating Overall and per-category standings for the last segment and cumulative totals, with optional circled category badges on Overall, your own row pinned if you're outside the rows shown, and CSV export.\n  * **SCP Debug Capture:** temporary troubleshooting tool that saves a snapshot of the route, segment and position data.\n* **SCP requires the Zenmaster mod** installed and enabled. None of its windows need to be open.\n* **Theme override and font scaling** settings in the SCP windows.\n* **SendIt is now licensed under GPLv3.** Thanks to Arend teRaa (Zenmaster) and Onno Aphinan (O101), whose work parts of SCP build on.\n\n---\n\n### Issues / Enhancements in the queue\n* Create a way to toggle TTT dynamics to a post-race state (e.g., from transparent to solid background, adding more data)\n* Enhanced pull definitions (similar to Tord's TTT mod)\n* Improvements to group TTT efficiency metrics"
             }
         ],
         "description": "# TTT Power Dynamics\n\nA mod to manage Team Time Trial rotations and track teammate performance.\n\n### Features\n* **Teammate Detection and Sorting:** Detects who your teammates are and sorts them by pull order (usually correctly).\n* **Workload Tracking:** Monitors time spent pulling vs. sitting, including average wattage for each teammate.\n* **Gap Status:** At-a-glance color coding shows if teammates are currently in the pack, ahead, or falling behind.\n\n### Available Settings\n* **Teammate Lock-in:** Adjust how many seconds it takes for a rider to be \"confirmed\" as a teammate.\n* **Pull Detection Mode:** Choose between \"First Position\" (physical leader) or \"Draft Mode\" (detects anyone in the wind).\n* **Minimum Pull Watts:** Set a wattage floor to ensure coasting at the front isn't counted as a pull.\n* **User Position:** Force your own stats to the top or bottom of the list for easy reference.\n\n### Usage\nThe mod automatically tracks all riders in your vicinity. Once a rider is \"locked-in\" as a teammate, their stats will persist even if they drop out of your immediate drafting range.",
@@ -204,9 +204,12 @@
             "Team Time Trial",
             "overlay",
             "streaming",
-            "DS"
+            "DS",
+            "SCP",
+            "Snap Crackle Pop",
+            "Segment Smasher"
         ],
-        "authorName": "Dean Nordhielm (with an assist from Tim Busick)"
+        "authorName": "Dean Nordhielm"
     },
     {
         "id": "50b7f63c-819c-484e-8667-997a9f7df4b7",
