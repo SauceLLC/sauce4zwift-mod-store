@@ -160,24 +160,25 @@
         "created": 1767603168118,
         "releases": [
             {
-                "version": "3.5.14",
-                "hash": "2904caca145685d3e1d6d9baea9c64c91e43c43d4e838773ba7131b45043b97b",
-                "url": "https://mod-api.sauce.llc/assets/degre/2904caca145685d3e1d6d9baea9c64c91e43c43d4e838773ba7131b45043b97b.zip",
-                "size": 618036,
-                "updated": 1781148349084,
-                "notes": "Attack Radar: 'Always' option now also works in free rides and lap/time based events. Finish Well: checkered flag auto-hides after 10s, fixed applause replay loop."
+                "version": "3.6.0",
+                "hash": "26617bec083c1c2aa8a046e949f0ed3d2a6ee8558a17e7d393e7286d43ecfcfd",
+                "url": "https://mod-api.sauce.llc/assets/degre/26617bec083c1c2aa8a046e949f0ed3d2a6ee8558a17e7d393e7286d43ecfcfd.zip",
+                "size": 630731,
+                "updated": 1791269069015,
+                "notes": "New widget: DEGRE Radio, the NowPlay web radio inside Sauce, in sync with the website and Discord: stations, thumbs up/down, song requests, autoplay on widget open or event start. Attack Radar: riders under 60 kg now show their exact weight instead of a size label."
             }
         ],
-        "description": "Professional widget collection for competitive Zwift racing and streaming.\n\n* **Power Bar** - Dynamic power zone visualization\n* **Attack Radar** - Detects attacks with audio alerts and attacker stats\n* **Finish Well** - Final km countdown with bell and checkered flag\n* **Player** - Music player with NowPlay integration\n* **Ticker** - Customizable scrolling text overlay",
+        "description": "Professional widget collection for competitive Zwift racing and streaming.\n\n* **Power Bar** - Dynamic power zone visualization\n* **Attack Radar** - Detects attacks with audio alerts and attacker stats\n* **Finish Well** - Final km countdown with bell and checkered flag\n* **Player** - Music player with NowPlay integration\n* **Radio** - NowPlay web radio in sync with the website: stations, votes, song requests\n* **Ticker** - Customizable scrolling text overlay",
         "homeURL": "https://github.com/lucadegre/degre-mods",
         "logoURL": "https://raw.githubusercontent.com/lucadegre/degre-mods/main/assets/logo.webp",
         "tags": [
-            "racing",
-            "widgets",
             "hud",
-            "streaming",
+            "music",
             "powerbar",
-            "music"
+            "racing",
+            "radio",
+            "streaming",
+            "widgets"
         ],
         "authorName": "Luca DEGRE",
         "authorAvatarURL": "https://avatars.githubusercontent.com/u/252923405?s=400&u=0f94e246ecb8a8fbd85d49d8c95ce28f066ad79c&v=4",
