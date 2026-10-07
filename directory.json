@@ -243,5 +243,36 @@
         "authorName": "Van Chappell",
         "authorAvatarURL": "https://avatars.githubusercontent.com/u/26533100?v=4",
         "authorURL": "https://github.com/vkchap"
+    },
+    {
+        "id": "2db0e8e9-9969-40fa-a008-545eb4e30a6d",
+        "name": "Hill Radar",
+        "created": 1791354312166,
+        "releases": [
+            {
+                "version": "0.1.1",
+                "hash": "9c9839220840b1d899f0a8dabbb99de1259f5bcd68ac0614b0152dedb8d2ad0f",
+                "url": "https://mod-api.sauce.llc/assets/hill_radar/9c9839220840b1d899f0a8dabbb99de1259f5bcd68ac0614b0152dedb8d2ad0f.zip",
+                "size": 131769,
+                "updated": 1791354312166,
+                "notes": "0.1.1: first store release.\n- Climb detection with a gradient-colored profile, distance and climbing left to the top\n- Official and unofficial climb names, route climbs list with previews\n- Units, color schemes and Sauce themes",
+                "minVersion": "2.3.0"
+            }
+        ],
+        "description": "Finds the climbs on the route you're riding and shows the current or next climb, like a bike computer's climb feature.\n* Profile of the climb colored by gradient, with your position, section grades and summit elevation\n* Distance to the top and climbing left, including re-climbing any dips\n* Official Zwift KOMs and well-known unofficial climbs are named; climbs are numbered across laps\n* Upcoming climbs and a Route climbs list; click any climb to preview it\n* All / Medium and large / Only large climb detection; Auto, metric or imperial units; Sauce themes",
+        "homeURL": "https://github.com/Aryeh95/s4z-hill-radar",
+        "logoURL": "https://raw.githubusercontent.com/Aryeh95/s4z-hill-radar/refs/tags/v0.1.1/logo.png",
+        "tags": [
+            "climb",
+            "climbs",
+            "elevation",
+            "profile",
+            "gradient",
+            "kom",
+            "route"
+        ],
+        "authorName": "Aryeh Nirenberg",
+        "authorAvatarURL": "https://avatars.githubusercontent.com/u/6836548?v=4",
+        "authorURL": "https://github.com/Aryeh95"
     }
 ]
