@@ -250,18 +250,18 @@
         "created": 1791354312166,
         "releases": [
             {
-                "version": "0.1.1",
-                "hash": "9c9839220840b1d899f0a8dabbb99de1259f5bcd68ac0614b0152dedb8d2ad0f",
-                "url": "https://mod-api.sauce.llc/assets/hill_radar/9c9839220840b1d899f0a8dabbb99de1259f5bcd68ac0614b0152dedb8d2ad0f.zip",
-                "size": 131769,
-                "updated": 1791354312166,
-                "notes": "0.1.1: first store release.\n- Climb detection with a gradient-colored profile, distance and climbing left to the top\n- Official and unofficial climb names, route climbs list with previews\n- Units, color schemes and Sauce themes",
+                "version": "0.2.0",
+                "hash": "9fc6609a840bbb1d36a806489250968656423b16a16cc9bd64136cae6e8c1148",
+                "url": "https://mod-api.sauce.llc/assets/hill_radar/9fc6609a840bbb1d36a806489250968656423b16a16cc9bd64136cae6e8c1148.zip",
+                "size": 139045,
+                "updated": 1791434611937,
+                "notes": "0.2.0\n- Climb Portal support: portal climbs shown as one named climb, scaled to your difficulty, ending at Zwift's finish gate\n- Climb summary at the top of each climb: time, power, W/kg, VAM, heart rate, speed and cadence (can be turned off)\n- KOMs now count at any uphill grade (e.g. Itza KOM, Zwift KOM Reverse, Jarvis KOM)\n- New setting: Include gentle climbs (1.5%+), off by default",
                 "minVersion": "2.3.0"
             }
         ],
-        "description": "Finds the climbs on the route you're riding and shows the current or next climb, like a bike computer's climb feature.\n* Profile of the climb colored by gradient, with your position, section grades and summit elevation\n* Distance to the top and climbing left, including re-climbing any dips\n* Official Zwift KOMs and well-known unofficial climbs are named; climbs are numbered across laps\n* Upcoming climbs and a Route climbs list; click any climb to preview it\n* All / Medium and large / Only large climb detection; Auto, metric or imperial units; Sauce themes",
+        "description": "Finds the climbs on the route you're riding and shows the current or next climb, like a bike computer's climb feature.\n* Profile of the climb colored by gradient, with your position, section grades and summit elevation\n* Distance to the top and climbing left, including re-climbing any dips\n* Official Zwift KOMs and well-known unofficial climbs are named; climbs are numbered across laps\n* Climb Portal climbs, named and scaled to your difficulty setting\n* Climb summary at the top: time, power, W/kg, VAM, heart rate, speed and cadence\n* Upcoming climbs and a Route climbs list; click any climb to preview it\n* All / Medium and large / Only large climb detection; Auto, metric or imperial units; Sauce themes",
         "homeURL": "https://github.com/Aryeh95/s4z-hill-radar",
-        "logoURL": "https://raw.githubusercontent.com/Aryeh95/s4z-hill-radar/refs/tags/v0.1.1/logo.png",
+        "logoURL": "https://raw.githubusercontent.com/Aryeh95/s4z-hill-radar/refs/tags/v0.2.0/logo.png",
         "tags": [
             "climb",
             "climbs",
