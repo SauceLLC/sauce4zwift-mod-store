@@ -190,11 +190,11 @@
         "created": 1769644971606,
         "releases": [
             {
-                "version": "0.1.2",
-                "hash": "2ac17431ab1a1a24666916f28a4cd02591d294d7b2f9790b515f12659ab191f7",
-                "url": "https://mod-api.sauce.llc/assets/sendit/2ac17431ab1a1a24666916f28a4cd02591d294d7b2f9790b515f12659ab191f7.zip",
-                "size": 122357,
-                "updated": 1791302515352,
+                "version": "0.1.3",
+                "hash": "389413ba230bcc23a94c6e84fb0d29f87388d9911c43299c27eed43fef05782d",
+                "url": "https://mod-api.sauce.llc/assets/sendit/389413ba230bcc23a94c6e84fb0d29f87388d9911c43299c27eed43fef05782d.zip",
+                "size": 122229,
+                "updated": 1791583595311,
                 "notes": "### New in this Release\n* **Attack Point (beta):** pre-race planning window. Pick one of your upcoming races (or search upcoming events, or paste an event link) and it finds the points on the route where an attack drops the most of the pack, or opens the biggest gap on one rider.\n  * **Run as** you or any rider in the race, **against** the pack (untick riders to leave them out) or one rider.\n  * Each attack point shows the effort to make (length and watts), who's dropped and who holds on, and what other effort lengths would do from the same spot.\n  * **Team analysis:** mark your teammates and analyze everyone at once. Each rider's attack points are stacked under the elevation profile, so common attack points line up, with the team's best attacks and who should make them.\n  * **Settings:** You % and Others % scale everyone's power curve (both 95% by default), plus advanced settings for peloton pace, reaction delay and draft.\n  * Riders' power comes from a shared sheet filled nightly from ZwiftRacing.app. **Request rider data** asks for riders who aren't on it yet; until then they're estimated from their FTP and marked est.\n  * Opens with the Sauce default theme; the window's settings have a theme override (Use app setting to match your other windows) and font scaling.\n  * **Requires the Zenmaster mod** installed and enabled, like SCP.\n* **SCP Segment List:** new **Segment point** setting to show the distance to each segment's start, its finish, or alternate between the two (with separate times for each). The \"To start\" distance option is now called \"Distance to go\".\n* **SCP Debug Capture** is no longer listed in Sauce's windows.\n\n---\n\n### Issues / Enhancements in the queue\n* Attack Point: test your own attack (start point, effort length, power %) and see who holds on and who's dropped\n* Create a way to toggle TTT dynamics to a post-race state (e.g., from transparent to solid background, adding more data)\n* Enhanced pull definitions (similar to Tord's TTT mod)\n* Improvements to group TTT efficiency metrics"
             }
         ],
