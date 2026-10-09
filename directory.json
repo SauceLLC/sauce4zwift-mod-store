@@ -160,24 +160,25 @@
         "created": 1767603168118,
         "releases": [
             {
-                "version": "3.5.14",
-                "hash": "2904caca145685d3e1d6d9baea9c64c91e43c43d4e838773ba7131b45043b97b",
-                "url": "https://mod-api.sauce.llc/assets/degre/2904caca145685d3e1d6d9baea9c64c91e43c43d4e838773ba7131b45043b97b.zip",
-                "size": 618036,
-                "updated": 1781148349084,
-                "notes": "Attack Radar: 'Always' option now also works in free rides and lap/time based events. Finish Well: checkered flag auto-hides after 10s, fixed applause replay loop."
+                "version": "3.6.0",
+                "hash": "26617bec083c1c2aa8a046e949f0ed3d2a6ee8558a17e7d393e7286d43ecfcfd",
+                "url": "https://mod-api.sauce.llc/assets/degre/26617bec083c1c2aa8a046e949f0ed3d2a6ee8558a17e7d393e7286d43ecfcfd.zip",
+                "size": 630731,
+                "updated": 1791269069015,
+                "notes": "New widget: DEGRE Radio, the NowPlay web radio inside Sauce, in sync with the website and Discord: stations, thumbs up/down, song requests, autoplay on widget open or event start. Attack Radar: riders under 60 kg now show their exact weight instead of a size label."
             }
         ],
-        "description": "Professional widget collection for competitive Zwift racing and streaming.\n\n* **Power Bar** - Dynamic power zone visualization\n* **Attack Radar** - Detects attacks with audio alerts and attacker stats\n* **Finish Well** - Final km countdown with bell and checkered flag\n* **Player** - Music player with NowPlay integration\n* **Ticker** - Customizable scrolling text overlay",
+        "description": "Professional widget collection for competitive Zwift racing and streaming.\n\n* **Power Bar** - Dynamic power zone visualization\n* **Attack Radar** - Detects attacks with audio alerts and attacker stats\n* **Finish Well** - Final km countdown with bell and checkered flag\n* **Player** - Music player with NowPlay integration\n* **Radio** - NowPlay web radio in sync with the website: stations, votes, song requests\n* **Ticker** - Customizable scrolling text overlay",
         "homeURL": "https://github.com/lucadegre/degre-mods",
         "logoURL": "https://raw.githubusercontent.com/lucadegre/degre-mods/main/assets/logo.webp",
         "tags": [
-            "racing",
-            "widgets",
             "hud",
-            "streaming",
+            "music",
             "powerbar",
-            "music"
+            "racing",
+            "radio",
+            "streaming",
+            "widgets"
         ],
         "authorName": "Luca DEGRE",
         "authorAvatarURL": "https://avatars.githubusercontent.com/u/252923405?s=400&u=0f94e246ecb8a8fbd85d49d8c95ce28f066ad79c&v=4",
@@ -242,5 +243,36 @@
         "authorName": "Van Chappell",
         "authorAvatarURL": "https://avatars.githubusercontent.com/u/26533100?v=4",
         "authorURL": "https://github.com/vkchap"
+    },
+    {
+        "id": "2db0e8e9-9969-40fa-a008-545eb4e30a6d",
+        "name": "Hill Radar",
+        "created": 1791354312166,
+        "releases": [
+            {
+                "version": "0.2.0",
+                "hash": "9fc6609a840bbb1d36a806489250968656423b16a16cc9bd64136cae6e8c1148",
+                "url": "https://mod-api.sauce.llc/assets/hill_radar/9fc6609a840bbb1d36a806489250968656423b16a16cc9bd64136cae6e8c1148.zip",
+                "size": 139045,
+                "updated": 1791434611937,
+                "notes": "0.2.0\n- Climb Portal support: portal climbs shown as one named climb, scaled to your difficulty, ending at Zwift's finish gate\n- Climb summary at the top of each climb: time, power, W/kg, VAM, heart rate, speed and cadence (can be turned off)\n- KOMs now count at any uphill grade (e.g. Itza KOM, Zwift KOM Reverse, Jarvis KOM)\n- New setting: Include gentle climbs (1.5%+), off by default",
+                "minVersion": "2.3.0"
+            }
+        ],
+        "description": "Finds the climbs on the route you're riding and shows the current or next climb, like a bike computer's climb feature.\n* Profile of the climb colored by gradient, with your position, section grades and summit elevation\n* Distance to the top and climbing left, including re-climbing any dips\n* Official Zwift KOMs and well-known unofficial climbs are named; climbs are numbered across laps\n* Climb Portal climbs, named and scaled to your difficulty setting\n* Climb summary at the top: time, power, W/kg, VAM, heart rate, speed and cadence\n* Upcoming climbs and a Route climbs list; click any climb to preview it\n* All / Medium and large / Only large climb detection; Auto, metric or imperial units; Sauce themes",
+        "homeURL": "https://github.com/Aryeh95/s4z-hill-radar",
+        "logoURL": "https://raw.githubusercontent.com/Aryeh95/s4z-hill-radar/refs/tags/v0.2.0/logo.png",
+        "tags": [
+            "climb",
+            "climbs",
+            "elevation",
+            "profile",
+            "gradient",
+            "kom",
+            "route"
+        ],
+        "authorName": "Aryeh Nirenberg",
+        "authorAvatarURL": "https://avatars.githubusercontent.com/u/6836548?v=4",
+        "authorURL": "https://github.com/Aryeh95"
     }
 ]
