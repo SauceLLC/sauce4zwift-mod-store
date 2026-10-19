@@ -89,17 +89,16 @@
         "created": 1765843200000,
         "authorName": "Nick Keat"
     },
-    {
         "id": "e0ec65b6-4202-423a-840c-8c2d7ff4bb3c",
         "name": "Zwift Rider/TTT Profile Card",
         "releases": [
             {
-                "version": "7.9.2",
-                "hash": "786db66958ed257c693116a9de2626f9af1c3b1f61fb780f72404eec2312c81a",
-                "url": "https://mod-api.sauce.llc/assets/zwift_rider_ttt_profile_card/786db66958ed257c693116a9de2626f9af1c3b1f61fb780f72404eec2312c81a.zip",
-                "size": 562061,
-                "updated": 1787969652393,
-                "notes": "ZwiftGuy Profile Card — v7.9.2\n\nNEW  Club Ladder 5v5 (BETA) — live scoreboard for both clubs, roster pulled\n     automatically from your ladder fixture, per-rider gap with closing/losing.\n\nNEW  Rhino 2upTT Countdown — 2upTeam countdown card with a route-aware finish\n     projection and pace target finish.\n"
+                "version": "7.10.0",
+                "hash": "6f9dfa51adc4e8c39e141c45887d6277e02d926e591bedc4a98ef6e67ec6ec76",
+                "url": "https://mod-api.sauce.llc/assets/zwift_rider_ttt_profile_card/6f9dfa51adc4e8c39e141c45887d6277e02d926e591bedc4a98ef6e67ec6ec76.zip",
+                "size": 1299129,
+                "updated": 1792371866361,
+                "notes": "ZwiftGuy Profile Card — v7.10.0\n\nNEW  Rider Lower Third — a broadcast-style banner when the watched rider changes: name, flag, team colors, FTP and W/kg, race position, distance to go, live power.\n\nColor themes, light/dark, left/center/right, and a carousel of up to 10 pinned riders.\n\nNEW  Route Notes: Build From a Route — pick any Zwift route and the notes are filled in from Zwift's own data (segments, powerup arches, finish) with exact distances, lengths and grades. Then add your own notes.\n\nNEW  Time-in-zones bar on the profile card.\n\nNEW  Route Notes can use the Rider's Team color theme.\n"
             }
         ],
         "description": "**ZwiftGuy Profile Card**  — a Sauce4Zwift overlay suite with a live mini-profile card, TTT TEAM VIEWER, ZG CHAT, RACE LIVE CHAT in the style of YouTube Live/Twitch commentary with an offline TTS announcer, a ZG LIVE MAP featuring a team command-center dock of custom-colored rider cards and orbs, Rhino 2upTT Countdown Timer, and a 5v5 CLUB LADDER MOD (in BETA). ",
