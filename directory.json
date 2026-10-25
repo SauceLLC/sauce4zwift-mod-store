@@ -29,12 +29,12 @@
     {
         "releases": [
             {
-                "url": "https://mod-api.sauce.llc/assets/zenmaster/9d127d3fd5a33f4adcf9157330b5ce4ca8fb7a7540a307cd7630e5a77c964041.zip",
-                "version": "1.9.6",
-                "updated": 1790854283715,
-                "hash": "9d127d3fd5a33f4adcf9157330b5ce4ca8fb7a7540a307cd7630e5a77c964041",
-                "size": 803051,
-                "notes": "version 1.9.6\n- fixes a potential issue when importing teams for a DRS race if a duplicate assignment is found\n- fixes an issue with the route creator/chauffeur at the Mayan jungle intersection (and possibly elsewhere)"
+                "url": "https://mod-api.sauce.llc/assets/zenmaster/62a2c63a07fd00574f9a0a06d1f1ce59859cc5f1cb23d39423faf9d330a74387.zip",
+                "version": "1.9.7",
+                "updated": 1792958208063,
+                "hash": "62a2c63a07fd00574f9a0a06d1f1ce59859cc5f1cb23d39423faf9d330a74387",
+                "size": 814953,
+                "notes": "version 1.9.7\n- fixes an issue with the X-Axis distance markers alignment\n- remove the \"Non Watopia pace partners\" window since it's no longer relevant\n- Add a new window called \"Pace Partner Locations\" which shows the location of all the Pace Partners.  This window is dynamic to the active ones compared to the previous hard coded version.  This requires being on Sauce 2.4 Alpha4 or later\n- fixes the display of upcoming powerups in events with multiple powerup configurations like some assigned arches and some random ones\n- allows some loop segments to work on routes for the elevation profile and points leaderboard.  Specifcally, it should work on this week's ZRL route that includes the Jarvis Lap segment.  I ran it with some of the recon rides over the weekend and it seemed to work.  ZP doesn't show the Jarvis lap segment in results so I can't really validate it but it seems ok.\n- other minor fixes and adjustments"
             }
         ],
         "id": "96f4039e-cfb4-44bf-895e-c6cab7b68311",
