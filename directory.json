@@ -252,12 +252,12 @@
         "created": 1791354312166,
         "releases": [
             {
-                "version": "0.3.0",
-                "hash": "95549a2bbc004c43d57e21c7106111ce95bf5212f501ac7f0ba274b01fa6b39d",
-                "url": "https://mod-api.sauce.llc/assets/hill_radar/95549a2bbc004c43d57e21c7106111ce95bf5212f501ac7f0ba274b01fa6b39d.zip",
-                "size": 144309,
-                "updated": 1792643987468,
-                "notes": "0.3.0\n- Live climb stats: time, avg power, avg W/kg, HR and more for the climb so far (optional)\n- Show other riders on the climb profile (optional)\n- Hover the profile to see the gradient at any point\n- Official segment start/finish flags when a climb starts or ends outside the timed segment\n- Climbs end at their real top; fixed the start of routes like Downtown Eruption",
+                "version": "0.4.0",
+                "hash": "10fab8e7c4837a453d5674aa1fdce1cd305843d4d64d09c159e132ebc86d9735",
+                "url": "https://mod-api.sauce.llc/assets/hill_radar/10fab8e7c4837a453d5674aa1fdce1cd305843d4d64d09c159e132ebc86d9735.zip",
+                "size": 152502,
+                "updated": 1793249136764,
+                "notes": "0.4.0\n- Climbs on new routes get their names: an unofficial climb that matches a named one from another route (by elevation, length and shape) gets its name, e.g. Jungle to Windmill Climb on Four Foalsmen and Pacific Pursuit.\n- New climb name: Epic KOM - Last Kilometer (from the dip after The Grade to the Epic KOM finish).\n- If Sauce doesn't have a route yet, Hill Radar shows the climbs on the road you're on, with official segments naming them.\n- Climb summary stats are now selectable (8 slots), with new stats: NP, max power, kJ, distance and metres climbed.\n- New gradient color scheme: Barberfish. The settings page now shows a preview of the selected scheme.\n- New option to color the grade number with the gradient color scheme.\n- Classic scheme: steeper descents show darker blues.",
                 "minVersion": "2.3.0"
             }
         ],
