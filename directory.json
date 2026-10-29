@@ -112,12 +112,12 @@
         "name": "O101 Racing Mods",
         "releases": [
             {
-                "version": "1.1.10",
-                "hash": "7475f3a920353bd91f67d5fa291eb2bf1b4ac6e428c48f4cb0bdcc6a3c2d3e79",
-                "url": "https://mod-api.sauce.llc/assets/o101_for_s4z/7475f3a920353bd91f67d5fa291eb2bf1b4ac6e428c48f4cb0bdcc6a3c2d3e79.zip",
-                "size": 1042887,
-                "updated": 1784290162227,
-                "notes": "v1.1.10\nBig fan viewer update\nNote: for ladder mod, destroy and recreate solves most problems",
+                "version": "1.1.11",
+                "hash": "3bbe8d030ce3f08988f98b11f11e675f93b39b25d21dbdec356b87118dc55a4a",
+                "url": "https://mod-api.sauce.llc/assets/o101_for_s4z/3bbe8d030ce3f08988f98b11f11e675f93b39b25d21dbdec356b87118dc55a4a.zip",
+                "size": 1082190,
+                "updated": 1793279412824,
+                "notes": "v1.1.11\nO101 Nearby Race updates\n- TTT mode simplified\n right click rider, add\n in settings you can move up/down or delete\n- Toggle marked rider by right click\n- Added velo2 visibility (needs velo2 in name)",
                 "minVersion": "2.3.2"
             }
         ],
