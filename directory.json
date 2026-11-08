@@ -29,12 +29,12 @@
     {
         "releases": [
             {
-                "url": "https://mod-api.sauce.llc/assets/zenmaster/62a2c63a07fd00574f9a0a06d1f1ce59859cc5f1cb23d39423faf9d330a74387.zip",
-                "version": "1.9.7",
-                "updated": 1792958208063,
-                "hash": "62a2c63a07fd00574f9a0a06d1f1ce59859cc5f1cb23d39423faf9d330a74387",
-                "size": 814953,
-                "notes": "version 1.9.7\n- fixes an issue with the X-Axis distance markers alignment\n- remove the \"Non Watopia pace partners\" window since it's no longer relevant\n- Add a new window called \"Pace Partner Locations\" which shows the location of all the Pace Partners.  This window is dynamic to the active ones compared to the previous hard coded version.  This requires being on Sauce 2.4 Alpha4 or later\n- fixes the display of upcoming powerups in events with multiple powerup configurations like some assigned arches and some random ones\n- allows some loop segments to work on routes for the elevation profile and points leaderboard.  Specifcally, it should work on this week's ZRL route that includes the Jarvis Lap segment.  I ran it with some of the recon rides over the weekend and it seemed to work.  ZP doesn't show the Jarvis lap segment in results so I can't really validate it but it seems ok.\n- other minor fixes and adjustments"
+                "url": "https://mod-api.sauce.llc/assets/zenmaster/db2278308f5f6f91bd51a0acffab2790e0310b3f47a169f5e0250b738431367a.zip",
+                "version": "1.9.8",
+                "updated": 1794151908285,
+                "hash": "db2278308f5f6f91bd51a0acffab2790e0310b3f47a169f5e0250b738431367a",
+                "size": 831335,
+                "notes": "version 1.9.8\n- new Pace Partner Locations window has a filter to define min and max W/kg range to show\n\t- adds a Map view to the Pace Partner locations window that will show where they are all located on a map rather than a route profile.  Hover your mouse on the pin to see the route on the map.  \n\t- All PPs on the map view are updated every few seconds.  In the route view only one is updated every 4 seconds.  This is a limitation of how the data is updated.\n- adds a new window \"ZenCA Mobile\" which is designed to be used on your phone as a replacement for the Zwift Companion App if you have the Sauce Game Connection enabled.  \n\t- has tabs for Map, Chat, Actions and Teleport\n\t- configure how many and which data fields you want to see at the bottom\n\t- configure how many and which action buttons to have. Choose from Coffee break, Lap split, Peek back, Powerup, Rideon Bomb, Screenshot, Toggle HD, Toss PowerUp, U-Turn, Video Screenshot, Toggle Watt Lock.  When Watt Lock is enabled, you can increase/decrease the lock value.  A long press will do a rapid increase/decrease.  Peek Back changes the view to look behind you for a specified number of seconds.  It defaults to 5s but you can change it.  Buttons can be placed along the bottom, left or right hand side.\n\t- chat is public only, no DMs (yet)\n\t- Teleport lets you teleport to any Pace Partner available in your current world, as well as any Friends.  You can also choose to watch them so you can see where they are at the time.\n\t- Actions is all available actions like turning at intersections, this is generated dynamically.  Some of them can be added to a button, some I haven't added."
             }
         ],
         "id": "96f4039e-cfb4-44bf-895e-c6cab7b68311",
