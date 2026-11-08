@@ -112,11 +112,11 @@
         "name": "O101 Racing Mods",
         "releases": [
             {
-                "version": "1.1.14",
-                "hash": "6fcc5fe751f7a6686e00ee9f75b54f858bac8a35bc37795339554c04d893c08e",
-                "url": "https://mod-api.sauce.llc/assets/o101_for_s4z/6fcc5fe751f7a6686e00ee9f75b54f858bac8a35bc37795339554c04d893c08e.zip",
-                "size": 1082113,
-                "updated": 1793966576640,
+                "version": "1.1.15",
+                "hash": "bc2eae743d60914f322cdeeac3456bdd3b0f8db91b59e0d96744f47ff1309f87",
+                "url": "https://mod-api.sauce.llc/assets/o101_for_s4z/bc2eae743d60914f322cdeeac3456bdd3b0f8db91b59e0d96744f47ff1309f87.zip",
+                "size": 1083173,
+                "updated": 1794171110852,
                 "notes": "v1.1.11\nO101 Nearby Race updates\n- TTT mode simplified\n- Choose click action in settings\n in settings you can move up/down or delete\n- Toggle marked rider by click menu\n- Added velo2 visibility (needs velo2 in name)",
                 "minVersion": "2.3.2"
             }
