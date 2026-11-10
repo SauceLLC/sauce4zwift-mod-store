@@ -160,12 +160,12 @@
         "created": 1767603168118,
         "releases": [
             {
-                "version": "3.7.0",
-                "hash": "1cfc30d2e5f1d856580a00338a98592035ce3a28c69fc2788a3f1e5f4a825514",
-                "url": "https://mod-api.sauce.llc/assets/degre/1cfc30d2e5f1d856580a00338a98592035ce3a28c69fc2788a3f1e5f4a825514.zip",
-                "size": 650226,
-                "updated": 1792164814419,
-                "notes": "New widget: DEGRE Chat Translate, the Zwift chat (read only) with every message translated into your language, using the free Google translator or your own Gemini key, with optional read-aloud of the translations and adjustable text size. Radio: new bar that fits any window shape and keeps the text readable, one button to switch the radio on/off (mouse wheel for volume), tap the station name to change station."
+                "version": "3.7.1",
+                "hash": "fb09e1c3f67a61cdb88a2bf18464416693f5ed5cf3817944677545bbb42c7cf6",
+                "url": "https://mod-api.sauce.llc/assets/degre/fb09e1c3f67a61cdb88a2bf18464416693f5ed5cf3817944677545bbb42c7cf6.zip",
+                "size": 658764,
+                "updated": 1794342124199,
+                "notes": "Radio: new layouts for every window shape (long bar, 16:9 card, square, tall), title and artist always readable, volume slider that opens right from the speaker button (or mouse wheel anywhere on the widget), fixed station change and pause/resume. Chat Translate: read-aloud with a male or female voice by the rider's gender. Finish Well: new font, fully transparent background, resets between back-to-back races and no false finish when entering the pen."
             }
         ],
         "description": "Professional widget collection for competitive Zwift racing and streaming.\n\n* **Power Bar** - Dynamic power zone visualization\n* **Attack Radar** - Detects attacks with audio alerts and attacker stats\n* **Finish Well** - Final km countdown with bell and checkered flag\n* **Player** - Music player with NowPlay integration\n* **Radio** - NowPlay web radio in sync with the website: stations, votes, song requests\n* **Chat Translate** - Zwift chat translated into your language, optionally read aloud\n* **Ticker** - Customizable scrolling text overlay",
