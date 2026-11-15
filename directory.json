@@ -160,15 +160,15 @@
         "created": 1767603168118,
         "releases": [
             {
-                "version": "3.7.1",
-                "hash": "fb09e1c3f67a61cdb88a2bf18464416693f5ed5cf3817944677545bbb42c7cf6",
-                "url": "https://mod-api.sauce.llc/assets/degre/fb09e1c3f67a61cdb88a2bf18464416693f5ed5cf3817944677545bbb42c7cf6.zip",
-                "size": 658764,
-                "updated": 1794342124199,
-                "notes": "Radio: new layouts for every window shape (long bar, 16:9 card, square, tall), title and artist always readable, volume slider that opens right from the speaker button (or mouse wheel anywhere on the widget), fixed station change and pause/resume. Chat Translate: read-aloud with a male or female voice by the rider's gender. Finish Well: new font, fully transparent background, resets between back-to-back races and no false finish when entering the pen."
+                "version": "3.8.0",
+                "hash": "7c988166d3bbb131833e85fdd1968e72c70553c482d49ac4b454c916939dccea",
+                "url": "https://mod-api.sauce.llc/assets/degre/7c988166d3bbb131833e85fdd1968e72c70553c482d49ac4b454c916939dccea.zip",
+                "size": 663861,
+                "updated": 1794752796862,
+                "notes": "Chat Translate: new Gemini AI voices (beta). With your Gemini key every rider gets a natural voice of their own, always the same one. Free keys have a per-minute limit: near it, the computer voices take over and a note in the chat tells you why. New always-visible button to mute or unmute the voice with one click (no Gemini requests while muted). Messages from the same rider are read together, and messages Sauce failed to pass on are recovered automatically."
             }
         ],
-        "description": "Professional widget collection for competitive Zwift racing and streaming.\n\n* **Power Bar** - Dynamic power zone visualization\n* **Attack Radar** - Detects attacks with audio alerts and attacker stats\n* **Finish Well** - Final km countdown with bell and checkered flag\n* **Player** - Music player with NowPlay integration\n* **Radio** - NowPlay web radio in sync with the website: stations, votes, song requests\n* **Chat Translate** - Zwift chat translated into your language, optionally read aloud\n* **Ticker** - Customizable scrolling text overlay",
+        "description": "Professional widget collection for competitive Zwift racing and streaming.\n\n* **Power Bar** - Dynamic power zone visualization\n* **Attack Radar** - Detects attacks with audio alerts and attacker stats\n* **Finish Well** - Final km countdown with bell and checkered flag\n* **Player** - Music player with NowPlay integration\n* **Radio** - NowPlay web radio in sync with the website: stations, votes, song requests\n* **Chat Translate** - Zwift chat translated into your language, optionally read aloud, also with Gemini AI voices (one per rider)\n* **Ticker** - Customizable scrolling text overlay",
         "homeURL": "https://github.com/lucadegre/degre-mods",
         "logoURL": "https://raw.githubusercontent.com/lucadegre/degre-mods/main/assets/logo.webp",
         "tags": [
