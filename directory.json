@@ -276,5 +276,36 @@
         "authorName": "Aryeh Nirenberg",
         "authorAvatarURL": "https://avatars.githubusercontent.com/u/6836548?v=4",
         "authorURL": "https://github.com/Aryeh95"
+    },
+     {
+        "id": "56b53fd0-b36e-4977-8eb9-6f975800d003",
+        "name": "CR45H HUD",
+        "created": 1795316649240,
+        "releases": [
+            {
+                "version": "1.0.0",
+                "hash": "21fc163fb67e87e50051bd16b118139a91ccfdebe4c86bec33f2c9410ae8b894",
+                "url": "https://mod-api.sauce.llc/assets/cr45h_hud/21fc163fb67e87e50051bd16b118139a91ccfdebe4c86bec33f2c9410ae8b894.zip",
+                "size": 36193,
+                "updated": 1795316733455,
+                "notes": "First stable release: CR45H HUD v1.0.0.\n\n* Customizable Metric HUD and standalone or docked Ride Progress Bar.\n* Added Draft watts-saved metric with an optional ride-average readout.\n* Added card spacing and metric-width controls.\n* Added a circular active power-up countdown.\n* Improved power-zone stripe clearance and fixed clipped second-line text."
+            }
+        ],
+        "description": "Customizable ride overlays for Sauce for Zwift.\n\n* Metric HUD with power, Draft watts saved, heart rate, cadence, speed, distance, elevation, grade, W/kg and power-ups.\n* Stacked, inline or side layouts with plate, card or open surfaces.\n* Adjustable card spacing and widths, independent of text size.\n* Optional second-line readouts, including averages, W/kg and distance remaining.\n* Circular countdown showing remaining active power-up time.\n* Ride Progress Bar with route progress, lead-in, segment markers and upcoming-segment highlights.\n* Use the progress bar separately or dock it above or below the metrics.\n\nPower-up display requires Sauce’s Game Connection.",
+        "homeURL": "https://github.com/cr45hmurphy/cr45hhud-s4z-mod",
+        "logoURL": "https://raw.githubusercontent.com/cr45hmurphy/cr45hhud-s4z-mod/master/images/logo-512x512.webp",
+        "tags": [
+            "hud",
+            "overlay",
+            "metrics",
+            "power",
+            "draft",
+            "route",
+            "progress",
+            "segments"
+        ],
+        "authorName": "cr45hmurphy",
+        "authorAvatarURL": "https://avatars.githubusercontent.com/u/4840152?v=4",
+        "authorURL": "https://github.com/cr45hmurphy"
     }
 ]
