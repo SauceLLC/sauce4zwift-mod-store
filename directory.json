@@ -94,16 +94,16 @@
         "name": "Zwift Rider/TTT Profile Card",
         "releases": [
             {
-                "version": "7.10.0",
-                "hash": "6f9dfa51adc4e8c39e141c45887d6277e02d926e591bedc4a98ef6e67ec6ec76",
-                "url": "https://mod-api.sauce.llc/assets/zwift_rider_ttt_profile_card/6f9dfa51adc4e8c39e141c45887d6277e02d926e591bedc4a98ef6e67ec6ec76.zip",
-                "size": 1299129,
-                "updated": 1792372402976,
-                "notes": "ZwiftGuy Profile Card — v7.10.0\n\nNEW  Rider Lower Third — a broadcast-style banner when the watched rider changes: name, flag, team colors, FTP and W/kg, race position, distance to go, live power.\n\nColor themes, light/dark, left/center/right, and a carousel of up to 10 pinned riders.\n\nNEW  Route Notes: Build From a Route — pick any Zwift route and the notes are filled in from Zwift's own data (segments, powerup arches, finish) with exact distances, lengths and grades. Then add your own notes.\n"
+                "version": "7.11.0",
+                "hash": "3ffdd6f57f5840ffd077f39be73611aa74437d6a5e9dde50603daf98c55d697d",
+                "url": "https://mod-api.sauce.llc/assets/zwift_rider_ttt_profile_card/3ffdd6f57f5840ffd077f39be73611aa74437d6a5e9dde50603daf98c55d697d.zip",
+                "size": 1870128,
+                "updated": 1795572101207,
+                "notes": "ZwiftGuy Profile Card — v7.11.0\n\nNEW  Race HUD layout (now the default) — big power with W/kg and power zone, a zone-colored glow, and an optional faint graph behind the power number. Classic and Bar layouts are still there.\n\nNEW  Team badge on the profile card, in your team's colors.\n\nNEW  Race tiles that appear on their own in events: your position and the distance to go. 15-second smooth power tile, and an FTP-based power pulse.\n\nNEW  Bike on the Rider Lower Third — frame and wheel names, with Zwift's own pictures where they exist.\n\nNEW  Bike Check window — the bike and wheels every nearby rider is on, with pictures, the most common bikes at the top, and sorting by gap, bike or name. Needs Sauce 2.4.0 or later for the bike data.\n\nNEW  Rider lock on the Rider Lower Third — keeps one rider and the banner on screen while the camera and carousel move on.\n\n\nBike and wheel pictures are Zwift's own artwork, used non-commercially. Not affiliated with Zwift.\n"
             }
         ],
-        "description": "**ZwiftGuy Profile Card**  — a Sauce4Zwift overlay suite with a live mini-profile card, TTT TEAM VIEWER, ZG CHAT, RACE LIVE CHAT in the style of YouTube Live/Twitch commentary with an offline TTS announcer, a ZG LIVE MAP featuring a team command-center dock of custom-colored rider cards and orbs, Rhino 2upTT Countdown Timer, and a 5v5 CLUB LADDER MOD (in BETA). ",
-        "logoURL": "https://github.com/micahreeves/classic/blob/SauceModLogo/pictures/gitHubLogoV.7.2.webp?raw=true",
+        "description": "**ZwiftGuy Profile Card** — a Sauce4Zwift overlay suite for racers and streamers.\n\n* **Race HUD profile card**: big power with W/kg and power zone, zone glow, team badge, heart rate, cadence, speed and draft, plus position and distance-to-go tiles that appear in events. Classic and Bar layouts, color themes, light/dark mode and a 15-second power tile\n* **Rider Lower Third**: a broadcast-style banner for the watched rider with name, flag, team colors, FTP, race position, live power and their bike. Pin up to 10 riders into a carousel, or lock one on screen\n* **Bike Check**: the bike frame and wheels every nearby rider is on, with pictures (needs Sauce 2.4.0 or later)\n* **TTT Team Viewer** and **Route Notes**, which can build notes from any Zwift route\n* **ZG Chat** and **Race Live Chat**: YouTube Live / Twitch style commentary with an offline TTS announcer\n* **ZG Live Map**: a team command-center dock of custom-colored rider cards and orbs\n* **Rhino 2upTT Countdown Timer**\n* **5v5 Club Ladder** (in BETA)\n\nBike and wheel pictures are Zwift's own artwork, used non-commercially. This mod is not made by or affiliated with Zwift.",
+        "logoURL": "https://github.com/micahreeves/classic/blob/SauceModLogo/pictures/store-logo-512.png?raw=true",
         "created": 1762840800000,
         "authorName": "ZwiftGuy"
     },
